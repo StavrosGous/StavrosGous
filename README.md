@@ -9,7 +9,7 @@
 - 💼 Currently working as a **Software Engineer** and **Business Analyst**, blending technical expertise with business acumen.  
 - 💡 Passionate about **cybersecurity**, focusing on **web exploitation** and **binary exploitation**.  
 
- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" width="100%"/>
 
 
 ## 🛠 Tools of the Trade  
@@ -19,11 +19,11 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" width="100%"/>
 
 
 ### **Frameworks & Libraries**  
@@ -33,7 +33,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" width="100%"/>
 
 
 ### **Databases**  
@@ -41,7 +41,7 @@
 ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" width="100%"/>
 
 
 ### **Tools & Environments**  
@@ -49,26 +49,22 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![DevTools](https://img.shields.io/badge/-DevTools-2496ED?style=flat&logo=google-chrome&logoColor=white)
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" width="100%"/>
 
 
----
 
 🌟 **Current Focus**  
 - Advancing my skills in **Python automation** and **React development**.  
 - Exploring advanced cybersecurity topics, including **binary exploitation** and **ethical hacking**.  
 - Continuing to build projects that combine software development with cybersecurity.
 
----
 
-## 🖥 Animated Tech Divider  
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" width="100%"/>
 
 🌐 **Connect with Me**  
 - 📧 Email: gousgounisstavros1@gmail.com  
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" width="100%"/>
 
-🛠️ **Thank you for visiting my GitHub profile!**  
+🙏 **Thank you for visiting my GitHub profile!**  
 Feel free to explore my repositories or reach out to connect. 🚀
