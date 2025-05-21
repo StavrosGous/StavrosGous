@@ -8,10 +8,7 @@
 </div>
 
 
-<div align="center" style="position: relative; width: 600px; height: 400px;">
-  <!-- Background Image -->
-  <img src="./pc_screen.png" alt="PC Screen" style="width: 100%; height: 100%; border-radius: 10px;">
-
+<div align="center" style="position: relative; width: 600px; height: 400px; background: url('./pc_screen.png') no-repeat center; background-size: contain; border-radius: 10px;">
   <!-- Typing SVG Positioned Inside the Screen -->
   <div style="position: absolute; top: 30%; left: 15%; width: 70%; height: auto; background-color: black; color: limegreen; font-family: Fira Code, monospace; font-size: 16px; padding: 10px; border-radius: 5px; box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5);">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2500&color=009A0B&background=000000&multiline=true&repeat=false&width=435&height=100&lines=%3E+whoami;%20%20%20%20Gousgou" alt="Typing Animation">
