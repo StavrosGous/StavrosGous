@@ -13,7 +13,7 @@
 - 💡 Passionate about **cybersecurity**, focusing on **web exploitation** and **binary exploitation**.  
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" width="100%"/>
-
+<img src="https://i.imgur.com/KQUJY8x.gif" alt="Animated rainbow dividers" width="100%">
 
 ## 🛠 Tools of the Trade  
 
