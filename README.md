@@ -68,7 +68,8 @@
 🌐 **Connect with Me**  
 - 📧 Email: gousgounisstavros1@gmail.com  
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" width="100%"/>
+<img src="https://i.imgur.com/KQUJY8x.gif" alt="Animated rainbow dividers" width="100%">
+
 
 🙏 **Thank you for visiting my GitHub profile!**  
 Feel free to explore my repositories or reach out to connect. 🚀
