@@ -2,19 +2,18 @@
 # Welcome to my GitHub! 👋
 
 <p align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&repeat=false&vCenter=true&width=500&lines=I’m+Stavros+Gkousgkounis!;" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&repeat=false&vCenter=true&width=500&&height=30&lines=I’m+Stavros+Gkousgkounis!;" alt="Typing SVG" />
 </p>
+<img src="https://i.imgur.com/KQUJY8x.gif" alt="Animated rainbow dividers" width="100%">
 
-🎓 **About Me**  
+### 🎓 **About Me**  
 - 📚 **Undergraduate Student** at the **Department of Informatics and Telecommunications (DIT)**, University of Athens (6th Semester, 3rd Year).  
 - 💼 Currently working as a **Software Engineer** and **Business Analyst**, blending technical expertise with business acumen.  
 - 💡 Passionate about **cybersecurity**, focusing on **web exploitation** and **binary exploitation**.  
 
-<img src="https://i.imgur.com/KQUJY8x.gif" alt="Animated rainbow dividers" width="100%">
 
- 🛠 **Tools of the Trade**  
+
+
 
 ### **Languages**  
 
@@ -26,10 +25,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" width="100%"/>
-
 ### **Frameworks & Libraries**  
 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -39,15 +34,12 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" width="100%"/>
-
 ### **Databases**  
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-<img src="https://i.imgur.com/KQUJY8x.gif" alt="Animated rainbow dividers" width="100%">
+
 
 
 ### **Tools & Environments**  
@@ -58,24 +50,14 @@
 ![Google Chrome DevTools](https://img.shields.io/badge/-DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white)
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" width="100%"/>
-
-
-🌟 **Current Focus**  
+### 🌟 **Current Focus**  
 - Advancing my skills in **Python automation** and **React development**.  
 - Exploring advanced cybersecurity topics, including **binary exploitation** and **ethical hacking**.  
 - Continuing to build projects that combine software development with cybersecurity.
 
 
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" width="100%"/>
-
-
-🌐 **Connect with Me**  
+### 🌐 **Connect with Me**  
 - 📧 Email: gousgounisstavros1@gmail.com  
 
-<img src="https://i.imgur.com/KQUJY8x.gif" alt="Animated rainbow dividers" width="100%">
-
-
-🙏 **Thank you for visiting my GitHub profile!**  
+### 🙏 **Thank you for visiting my GitHub profile!**  
 Feel free to explore my repositories or reach out to connect. 🚀
