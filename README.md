@@ -14,7 +14,7 @@
 
 <img src="https://i.imgur.com/KQUJY8x.gif" alt="Animated rainbow dividers" width="100%">
 
-## 🛠 Tools of the Trade  
+ 🛠 **Tools of the Trade**  
 
 ### **Languages**  
 
