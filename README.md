@@ -26,7 +26,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-<img src="https://i.imgur.com/KQUJY8x.gif" alt="Animated rainbow dividers" width="100%">
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" width="100%"/>
 
 ### **Frameworks & Libraries**  
 
@@ -36,8 +38,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-<img src="https://i.imgur.com/KQUJY8x.gif" alt="Animated rainbow dividers" width="100%">
 
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" width="100%"/>
 
 ### **Databases**  
 
@@ -54,7 +57,8 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Google Chrome DevTools](https://img.shields.io/badge/-DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white)
 
-<img src="https://i.imgur.com/KQUJY8x.gif" alt="Animated rainbow dividers" width="100%">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" width="100%"/>
 
 
 🌟 **Current Focus**  
@@ -62,7 +66,9 @@
 - Exploring advanced cybersecurity topics, including **binary exploitation** and **ethical hacking**.  
 - Continuing to build projects that combine software development with cybersecurity.
 
-<img src="https://i.imgur.com/KQUJY8x.gif" alt="Animated rainbow dividers" width="100%">
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" width="100%"/>
 
 
 🌐 **Connect with Me**  
