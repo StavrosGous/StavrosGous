@@ -1,4 +1,3 @@
-
 # Welcome to my GitHub! 👋
 
 <p align="center">
@@ -6,58 +5,37 @@
 </p>
 <img src="https://i.imgur.com/KQUJY8x.gif" alt="Animated rainbow dividers" width="100%">
 
-### 🎓 **About Me**  
-- 📚 **Undergraduate Student** at the **Department of Informatics and Telecommunications (DIT)**, University of Athens (6th Semester, 3rd Year).  
+### 🎓 **About Me** - 📚 **Undergraduate Student** at the **Department of Informatics and Telecommunications (DIT)**, University of Athens (6th Semester, 3rd Year).  
 - 💼 Currently working as a **Software Engineer** and **Business Analyst**, blending technical expertise with business acumen.  
 - 💡 Passionate about **cybersecurity**, focusing on **web exploitation** and **binary exploitation**.  
 
-
-
-
-
-### **Languages**  
-
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+### **Languages** ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### **Frameworks & Libraries**  
-
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+### **Frameworks & Libraries** ![FastAPI](https://img.shields.io/badge/-FastAPI-05998B?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-
-### **Databases**  
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+### **Databases** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-
-
-### **Tools & Environments**  
-
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### **Tools & Environments** ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Google Chrome DevTools](https://img.shields.io/badge/-DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white)
 
-
-### 🌟 **Current Focus**  
-- Advancing my skills in **Python automation** and **React development**.  
+### 🌟 **Current Focus** - Advancing my skills in **Python automation** and **React development**.  
+- Building robust backends using **FastAPI**.
 - Exploring advanced cybersecurity topics, including **binary exploitation** and **ethical hacking**.  
-- Continuing to build projects that combine software development with cybersecurity.
 
+### 🌐 **Connect with Me** - 📧 Email: gousgounisstavros1@gmail.com  
 
-### 🌐 **Connect with Me**  
-- 📧 Email: gousgounisstavros1@gmail.com  
-
-### 🙏 **Thank you for visiting my GitHub profile!**  
-Feel free to explore my repositories or reach out to connect. 🚀
+### 🙏 **Thank you for visiting my GitHub profile!** Feel free to explore my repositories or reach out to connect. 🚀
