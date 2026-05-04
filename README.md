@@ -5,7 +5,7 @@
 </p>
 <img src="https://i.imgur.com/KQUJY8x.gif" alt="Animated rainbow dividers" width="100%">
 
-### 🎓 **About Me** - 📚 **Undergraduate Student** at the **Department of Informatics and Telecommunications (DIT)**, University of Athens (6th Semester, 3rd Year).  
+### 🎓 **About Me** - 📚 **Undergraduate Student** at the **Department of Informatics and Telecommunications (DIT)**, University of Athens (8th Semester, 4th Year).  
 - 💼 Currently working as a **Software Engineer** and **Business Analyst**, blending technical expertise with business acumen.  
 - 💡 Passionate about **cybersecurity**, focusing on **web exploitation** and **binary exploitation**.  
 
