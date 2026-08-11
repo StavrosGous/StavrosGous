@@ -1,7 +1,7 @@
 # Welcome to my GitHub! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&repeat=false&vCenter=true&width=500&&height=30&lines=I’m+Stavros+Gkousgkounis!;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&repeat=false&vCenter=true&width=500&&height=30&lines=I'm+Stavros+Gkousgkounis!;" alt="Typing SVG" />
 </p>
 <img src="https://i.imgur.com/KQUJY8x.gif" alt="Animated rainbow dividers" width="100%">
 
@@ -38,6 +38,6 @@
 - Building robust backends using **FastAPI**.
 - Exploring advanced cybersecurity topics, including **binary exploitation** and **ethical hacking**.  
 
-### 🌐 **Connect with Me** - 📧 Email: gousgounisstavros1@gmail.com  
+### 🌐 **Connect with Me** - 🌍 Personal Site: https://gousgou.dev | 📧 Email: gousgounisstavros1@gmail.com  
 
 ### 🙏 **Thank you for visiting my GitHub profile!** Feel free to explore my repositories or reach out to connect. 🚀
